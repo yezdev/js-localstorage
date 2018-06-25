@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+  height: 100%;
+}
+
+.container {
+  text-align: center;
+}
+
+.visited-count {
+  text-align: center;
+  margin: 10px;
+}
+
+.day-theme {
+  background-color: lightyellow;
+  color: black;
+}
+
+.night-theme {
+  background-color: gray;
+  color: white;
+}
